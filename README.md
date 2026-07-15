@@ -1,2 +1,0 @@
-# AI Internship Tasks
-This repository contains my data science, data analysis and AI tasks, including exploratory data analysis on the Titanic and Telecom datasets and writing down the basic math equations related.
