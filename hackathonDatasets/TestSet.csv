@@ -1,0 +1,16 @@
+Category,email
+ham,"Hey, are we still meeting for lunch today at 1 PM? Let me know if you want to try that new cafe downtown."
+ham,"Hi team, please find attached the weekly project update notes and the sprint schedule for the upcoming review meeting."
+spam,URGENT security notice: Your bank account has been locked due to suspicious logins. Verify your credentials now.
+spam,Boost your website traffic by 500% guaranteed in just 7 days with our automated SEO growth tool. Reply YES!
+spam,"Turn $250 into $5,000 weekly with our revolutionary automated AI crypto trading bot. Zero experience needed!"
+Tech_Roles,"Dear Hiring Manager, applying for the Data Science position. Experienced in Python, data cleaning, pandas, and machine learning models."
+Tech_Roles,"Junior Python Developer resume. Skilled in backend scripting, API development, SQL databases, and Git version control."
+Tech_Roles,"Frontend Web Developer role application. Proficient in building responsive single-page apps using HTML, CSS, JavaScript, and React."
+Tech_Roles,"DevOps Engineer candidate with hands-on experience in cloud infrastructure, CI/CD pipelines, Docker, and Kubernetes deployment."
+Engineering_Roles,"Mechanical Engineer resume detailing background in CAD design, thermal analysis, manufacturing processes, and quality assurance."
+Engineering_Roles,"Civil Engineering professional skilled in structural analysis, AutoCAD, site planning, project management, and material testing."
+Business_and_Management,"Business Analyst application. Experienced in requirements gathering, market research, agile workflows, and data visualization dashboards."
+Business_and_Management,"Operations Manager resume with a proven track record in supply chain oversight, team leadership, budget allocation, and process optimization."
+Other_Roles,"Corporate Legal Advocate resume specializing in contract drafting, compliance auditing, corporate litigation, and dispute resolution."
+Other_Roles,"Certified Health and Fitness Coach application offering customized nutrition planning, personal training routines, and client motivation."
